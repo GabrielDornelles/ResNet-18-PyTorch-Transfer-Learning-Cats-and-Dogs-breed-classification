@@ -58,3 +58,5 @@ Yorkshire Terrier | 28.00%
 ![cats_dogs2](https://user-images.githubusercontent.com/56324869/101435422-170b0400-38eb-11eb-9de3-c243fd2032b4.png)
 
 Feel free to learn from it or make it better!
+You can download the model and the dataset right 
+[there](https://drive.google.com/drive/folders/1dD2-FC1051nHMZzhx1UQmKfDiCGcuXKQ?usp=sharing).
