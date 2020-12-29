@@ -3,7 +3,7 @@ A Transfer Learning model based on ResNet-18 to classify cats and dogs beetween 
 
 
 #### Dataset: Training was done with around 200 images per breed and test around 50. Cats and dogs weren't splitted during the training.
-
+Albumentations not implemented.
 ### Cats Classification:
 | Cat Breed | Accuracy |
 |----------|:----------:|
